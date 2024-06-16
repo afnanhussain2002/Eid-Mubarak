@@ -2,7 +2,7 @@ const EidMessage = ({ name }) => {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen">
       <p className="text-5xl md:text-9xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-cyan-500 to-blue-500 text-center animate-fadeIn">
-        Assamu Alaikum <br />
+        Assalamu Alaikum <br />
         <span>{name}</span> <br /> 
         <span className="shadow-lg">Eid Mubarak!</span>
       </p>
